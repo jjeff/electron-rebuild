@@ -119,7 +119,9 @@
     "node_modules"
   ],
   "mocha": {
-    "extensions": ["ts"],
+    "extensions": [
+      "ts"
+    ],
     "require": "ts-node/register"
   },
   "nyc": {

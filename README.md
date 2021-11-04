@@ -1,3 +1,7 @@
+# Temporary
+
+This will be deleted as soon as electron-rebuild rolls a new release. (Newer than Sept 1, 2021)
+
 ## Electron Rebuild
 
 [![CircleCI](https://circleci.com/gh/electron/electron-rebuild.svg?style=svg)](https://circleci.com/gh/electron/electron-rebuild)
